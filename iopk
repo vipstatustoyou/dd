@@ -1,4 +1,4 @@
-
+{
 
 ["id": "bystrodengi-loan-1",
       "type": "loan",
@@ -118,5 +118,5 @@
         "fees": null,
         "total_repayment": null
       }
-    }
   ]
+}
