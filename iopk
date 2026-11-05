@@ -1,6 +1,10 @@
 {
-
-["id": "bystrodengi-loan-1",
+  "schema_version": 2,
+  "is_demo": true,
+  "updated_at": "2026-11-05",
+  "offers": [
+    {
+      "id": "bystrodengi-loan-1",
       "type": "loan",
       "name": "Быстроденьги",
       "legal_name": null,
@@ -118,5 +122,6 @@
         "fees": null,
         "total_repayment": null
       }
+    }
   ]
 }
