@@ -1,0 +1,32 @@
+[
+  {
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/mickrocredditkz.png",
+    "company_name": "Mikrokredit",
+    "company_full": "ООО МФК \"Микрокредит\"",
+    "loan_amount": "до 30 000 ₽",
+    "percent": "от 0% в день",
+    "time": "до 5 минут",
+    "badge": "НАДЁЖНАЯ КОМПАНИЯ",
+    "url": "https://appstopcredits.online/dm-%d0%bc%d0%b8%d0%ba%d1%80%d0%be%d0%ba%d1%80%d0%b5%d0%b4%d0%b8%d1%82-2/"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/kanatkz.png",
+    "company_name": "QANAT",
+    "company_full": "ООО МКК «Qanat»",
+    "loan_amount": "до 100 000 ₽",
+    "percent": "от 0% в день",
+    "time": "до 3 минут",
+    "badge": "НАРОДНЫЙ ВЫБОР",
+    "url": "https://appstopcredits.online/qanat-kz-2/"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/tengedakz.png",
+    "company_name": "Tenge",
+    "company_full": "ООО МФК «Tenge»",
+    "loan_amount": "до 100 000 ₽",
+    "percent": "от 0% в день",
+    "time": "до 5 минут",
+    "badge": "ЛУЧШЕЕ ПРЕДЛОЖЕНИЕ",
+    "url": "https://appstopcredits.online/tengeda-kz-2/"
+  }
+]
