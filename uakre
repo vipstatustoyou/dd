@@ -4,7 +4,7 @@
  
  {
    "rating": 5.0,
-     "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/blob/main/Selfieredit.png",
+     "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/Selfieredit.png",
      "sum_one": "12 000 грн",
      "percent": "1%",
 "text": "Топ пропозиція",
@@ -17,7 +17,7 @@
 
  {
    "rating": 4.5,
-     "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/blob/main/tvoya_pozyka.png",
+     "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/tvoya_pozyka.png",
     	"sum_one": "12 000 грн",
       "percent": "0%",
 "text": "Швидке рішення",
@@ -28,7 +28,7 @@
  ,
  {
       "rating": 4.5,
-  "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/blob/main/starefee.png",
+  "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/starefee.png",
 	"sum_one": "12 000 грн",
   "percent": "0%",
 "text": "Вигідні умови",
