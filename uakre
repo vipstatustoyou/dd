@@ -1,63 +1,114 @@
 [
-    
-    
  
- {
-   "rating": 5.0,
-     "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/Selfieredit.png",
-     "sum_one": "12 000 грн",
-     "percent": "1%",
-"text": "Топ пропозиція",
-  "url": "https://google.com"
-         }
-    
-    
-,
-
-
- {
-   "rating": 4.5,
-     "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/tvoya_pozyka.png",
-    	"sum_one": "12 000 грн",
-      "percent": "0%",
-"text": "Швидке рішення",
-   "url": "https://www.homecredit.ru"
-  
-    }
-    
- ,
- {
-      "rating": 4.5,
-  "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/starefee.png",
-	"sum_one": "12 000 грн",
-  "percent": "0%",
-"text": "Вигідні умови",
-  "url": "https://google.com"
-        
-  
-    }
-    
-    
-,
-
-
- {
-   "rating": 4.7,
-     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/sslon.jpg",
-	"sum_one": "12 000 грн",
-  "percent": "1%",
-"text": "Спеціальна пропозиція",
-   "url": "https://www.homecredit.ru"
-  
-    }
-    
-
-
-
-
- 
-   
-   
-  
-  
+  {
+    "rating": 4.5,
+    "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/tvoya_pozyka.png",
+    "sum_one": "12 000 грн",
+    "percent": "0%",
+    "text": "Швидке рішення",
+    "url": "https://www.homecredit.ru",
+    "id": "tvoya_pozyka",
+    "name": "Твоя Позика",
+    "description": "Твоя Позика — мікрофінансова організація, яка працює в Україні з 2017 року. Компанія пропонує онлайн-кредити без фізичних відділень. Заявки обробляються автоматизованою системою, а кошти зараховуються на банківську картку після схвалення.",
+    "website": "https://tpozyka.com",
+    "phone": "0 800 211 203",
+    "license": "Ліцензія НБУ від 06.04.2017",
+    "founded_year": "2017",
+    "legal_name": "ТОВ «БІЗПОЗИКА»",
+    "sum_min": null,
+    "sum_max": 150000,
+    "percent_day": "від 0,01%",
+    "term_min": null,
+    "term_max": 169,
+    "decision_time": "До 5 хвилин",
+    "identification": "BankID НБУ",
+    "working_hours": "Цілодобово",
+    "new_clients_info": {
+      "sum_min": 3000,
+      "sum_max": 30000,
+      "percent_day": "0,01%",
+      "issuance_fee": "21%",
+      "real_annual_rate": "від 3,65%",
+      "age_min": 18,
+      "age_max": 75,
+      "documents": [
+        "Паспорт",
+        "РНОКПП (ІПН)"
+      ]
+    },
+    "advantages": [
+      "Онлайн-оформлення",
+      "Автоматизований розгляд заявки",
+      "Ідентифікація через BankID НБУ",
+      "Зарахування коштів на банківську картку"
+    ]
+  },
+  {
+    "rating": 4.5,
+    "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/starefee.png",
+    "sum_one": "12 000 грн",
+    "percent": "0%",
+    "text": "Вигідні умови",
+    "url": "https://google.com",
+    "id": "starfin",
+    "name": "Starfin",
+    "description": "Starfin — мікрофінансова організація, яка працює онлайн без фізичних відділень. За інформацією з наданих матеріалів, рішення за заявкою приймається протягом 5–8 хвилин, а кошти зараховуються на банківську картку.",
+    "website": "https://starfin.com.ua",
+    "phone": "0 800 202 233",
+    "license": "Ліцензія НБУ від 29.12.2023",
+    "founded_year": "2023",
+    "legal_name": null,
+    "sum_min": null,
+    "sum_max": 20000,
+    "percent_day": "від 0,01%",
+    "term_min": null,
+    "term_max": 360,
+    "decision_time": "До 8 хвилин",
+    "identification": null,
+    "working_hours": "Цілодобово",
+    "new_clients_info": {
+      "sum_min": 1000,
+      "sum_max": 15000,
+      "percent_day": "0,01%",
+      "issuance_fee": null,
+      "real_annual_rate": "від 3,65%",
+      "age_min": 18,
+      "age_max": null,
+      "documents": [
+        "Паспорт",
+        "РНОКПП (ІПН)"
+      ]
+    },
+    "advantages": [
+      "Онлайн-оформлення",
+      "Автоматизований розгляд заявки",
+      "Зарахування коштів на банківську картку"
+    ]
+  },
+  {
+    "rating": 4.7,
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/sslon.jpg",
+    "sum_one": "12 000 грн",
+    "percent": "1%",
+    "text": "Спеціальна пропозиція",
+    "url": "https://www.homecredit.ru",
+    "id": "sslon",
+    "name": null,
+    "description": null,
+    "website": null,
+    "phone": null,
+    "license": null,
+    "founded_year": null,
+    "legal_name": null,
+    "sum_min": null,
+    "sum_max": null,
+    "percent_day": null,
+    "term_min": null,
+    "term_max": null,
+    "decision_time": null,
+    "identification": null,
+    "working_hours": null,
+    "new_clients_info": null,
+    "advantages": []
+  }
 ]
