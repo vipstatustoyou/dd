@@ -4,9 +4,10 @@
  
  {
    "rating": 5.0,
-     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/vveo.png",
+     "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/blob/main/Selfieredit.png",
      "sum_one": "12 000 грн",
      "percent": "1%",
+"text": "Топ пропозиція",
   "url": "https://google.com"
          }
     
@@ -16,9 +17,10 @@
 
  {
    "rating": 4.5,
-     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ffones.png",
+     "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/blob/main/tvoya_pozyka.png",
     	"sum_one": "12 000 грн",
       "percent": "0%",
+"text": "Швидке рішення",
    "url": "https://www.homecredit.ru"
   
     }
@@ -26,9 +28,10 @@
  ,
  {
       "rating": 4.5,
-  "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/tng.png",
+  "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/blob/main/starefee.png",
 	"sum_one": "12 000 грн",
   "percent": "0%",
+"text": "Вигідні умови",
   "url": "https://google.com"
         
   
@@ -43,6 +46,7 @@
      "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/sslon.jpg",
 	"sum_one": "12 000 грн",
   "percent": "1%",
+"text": "Спеціальна пропозиція",
    "url": "https://www.homecredit.ru"
   
     }
